@@ -29,7 +29,10 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
 ---
 
 ## 💻 Program
+<img width="493" height="366" alt="image" src="https://github.com/user-attachments/assets/d0e6d134-6aae-42af-a6cf-97fffbd8cec9" />
 
 ## Output
+<img width="532" height="170" alt="image" src="https://github.com/user-attachments/assets/085ffa5a-0e44-416f-a9ca-9f931ac04c62" />
 
 ## Result
+Thus a python program to create an **abstract class** named `Shape` with an **abstract method** `calculate_area`, and implement this method in two subclasses: `Rectangle` and `Circle` is created.
