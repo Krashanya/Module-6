@@ -26,7 +26,10 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 ---
 
 ## 💻 Program
+<img width="377" height="408" alt="image" src="https://github.com/user-attachments/assets/80782bd9-af8b-454b-8255-3dcbaf303128" />
 
 ## Output
+<img width="335" height="211" alt="image" src="https://github.com/user-attachments/assets/7f3e80b1-5300-4998-ba31-27ad27f88c5c" />
 
 ## Result
+Thus a python program to create two specific classes — `Beans` and `Mango`. Then, create a **generic function** that can accept any object and determine its **type** (Fruit or Vegetable) and **color**, using polymorphism is created.
