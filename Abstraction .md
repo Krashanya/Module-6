@@ -21,7 +21,7 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
 4. **Create Subclass `Circle`**:
    - Set default value for `radius`.
    - Override `calculate_area()` to compute the circle area.
-
+   - 
 5. **Create Objects & Call Methods**:
    - Instantiate `Rectangle` and `Circle`.
    - Call their `calculate_area()` methods.
